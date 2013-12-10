@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>AChartEnging</id>
+        <version>1.1.0</version>
+        <authors>gdeic</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>AChartEngine Version 1.1.0 for Xamarin.Android (MonoAndroid)</description>
+        <dependencies>
+            <group targetFramework="MonoAndroid" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="AChartEnging.dll" target="lib\Monoandroid\AChartEnging.dll" />
+    </files>
+</package>
